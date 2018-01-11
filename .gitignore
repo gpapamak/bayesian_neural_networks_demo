@@ -1,0 +1,10 @@
+# specific files and foders
+.idea/
+
+# python bytecode files
+*.pyc
+*.pyo
+
+# text editor's temporary files
+*~
+
