@@ -6,9 +6,9 @@ Two ways of implementing Bayesian neural networks are demonstrated:
 - Stochastic Variational Inference using local reparameterization [1]
 - Hamiltonian Monte Carlo [2]
 
-[1] Kingma et al., _Variational Dropout and the Local Reparameterization Trick_, NIPS 2015. [[paper]](https://arxiv.org/abs/1506.02557)
+[1] Kingma et al., _Variational Dropout and the Local Reparameterization Trick_, NeurIPS 2015. [[arXiv]](https://arxiv.org/abs/1506.02557)
 
-[2] Neal, _MCMC using Hamiltonian dynamics_, Handbook of Markov Chain Monte Carlo, 2011. [[paper]](https://arxiv.org/abs/1206.1901)
+[2] Neal, _MCMC using Hamiltonian dynamics_, Handbook of Markov Chain Monte Carlo, 2011. [[arXiv]](https://arxiv.org/abs/1206.1901)
 
 ## How to run the code
 
